@@ -17,7 +17,7 @@ See [What's different from upstream](#whats-different-from-upstream) and
 ### Quick start
 
 ```sh
-wget https://raw.githubusercontent.com/<your-org>/wireguard-install/master/wireguard-install.sh \
+wget https://raw.githubusercontent.com/mstfknn/wireguard-install/refs/heads/master/wireguard-install.sh \
     -O wireguard-install.sh && sudo bash wireguard-install.sh
 ```
 
