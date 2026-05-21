@@ -15,7 +15,7 @@
 set -uo pipefail
 
 readonly SCRIPT_VERSION="2.0.0"
-readonly SCRIPT_URL_DEFAULT="https://raw.githubusercontent.com/Nyr/wireguard-install/master/wireguard-install.sh"
+readonly SCRIPT_URL_DEFAULT="https://raw.githubusercontent.com/mstfknn/wireguard-install/refs/heads/master/wireguard-install.sh"
 
 # ---------------------------------------------------------------------------
 # Defaults (can be overridden via environment for unattended runs)
